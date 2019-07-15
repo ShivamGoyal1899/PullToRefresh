@@ -37,17 +37,17 @@ The detailed steps to install Flutter on your personal computer & getting starte
 
 The basic format of PullToRefresh gesture looks like the one below:
 
-    const **RefreshIndicator**({
-          **Key** key,
+    const RefreshIndicator({
+          Key key,
           @required Widget child,
-          double **displacement**: 40.0,
-          @required **RefreshCallback** onRefresh,
-          **Color** color,
-          **Color** backgroundColor,
-          **ScrollNotificationPredicate**
+          double displacement: 40.0,
+          @required RefreshCallback onRefresh,
+          Color color,
+          Color backgroundColor,
+          ScrollNotificationPredicate
               notificationPredicate: defaultScrollNotificationPredicate,
-          **String** semanticsLabel,
-          **String** semanticsValue
+          String semanticsLabel,
+          String semanticsValue
     })
 
 ### Implementation
@@ -91,11 +91,9 @@ Amend your main.dart file as per the following code:
 * And Boooom, your app is ready.
 The final build would look like the below illustration.
 
-![The final output of the implementation](https://cdn-images-1.medium.com/max/2000/1*Xdgqe3NAYSk44UMl2Qswlw.gif)*The final output of the implementation*
+![The final output of the implementation](https://cdn-images-1.medium.com/max/2000/1*Xdgqe3NAYSk44UMl2Qswlw.gif)
 
-## Enappd Store | Premium App Starters
-[Enappd | Ionic, React Native, Firebase themes, templates and starters**
-*Get the full source code for Ionic, React Native, Firebase mobile app templates and starters. Use free templates and…*store.enappd.com](https://store.enappd.com/)
+*The final output of the implementation*
 
 ## More resources for Flutter
 
