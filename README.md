@@ -28,9 +28,6 @@ In this tutorial, you'll build a mobile app featuring a PullToRefresh gesture us
 
 This tutorial focuses on adding a PullToRefresh gesture to a Flutter app. Non-relevant concepts and code blocks are glossed over and are provided for you to simply copy and paste.
 
-Widget In Focus | [RefreshIndicator](https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
-----------------------------------
-
 * * *
 
 Setting up Flutter on your machine
@@ -38,7 +35,11 @@ Setting up Flutter on your machine
 
 The detailed steps to install Flutter on your personal computer & getting started with Flutter is available at the following blog
 
-> [How to install Flutter on Mac & Windows](https://medium.com/enappd/install-flutter-on-windows-and-mac-1fd1dde453ba)
+<a href="https://medium.com/enappd/install-flutter-on-windows-and-mac-1fd1dde453ba">
+    <p align="center">
+        How to install Flutter on Mac & Windows
+    </p>
+</a>
 
 Coding the component
 ====================
@@ -177,10 +178,35 @@ Building & running the application
 *   And Boooom :boom:, your app is ready.  
     The final build would look like the below illustration.
 
-<img src="https://miro.medium.com/max/1200/1*Xdgqe3NAYSk44UMl2Qswlw.gif"/>
+<p align="center">
+    <img src="https://miro.medium.com/max/1200/1*Xdgqe3NAYSk44UMl2Qswlw.gif"/>
+</p>
 
 <p align="center">
-The final output of the implementation
+    The final output of the implementation
 </p>
 
 * * *
+
+## :question: Queries / Bugs
+If you got any queries or found a bug, open an [Issue](https://github.com/ShivamGoyal1899/EasyWeather/issues/new) or ping me over on [hi@itsshivam.com](mailto:hi@itsshivam.com)
+
+## :memo: License
+Licensed under the [MIT License](./LICENSE).
+
+## :purple_heart: Thanks
+Thanks to all contributors and to sponsors for supporting the project.
+<p>
+  <a href="https://www.buymeacoffee.com/ShivamGoyal" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30">
+  </a>
+  <a href="https://www.patreon.com/bePatron?u=31786845" target="_blank">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="30">
+  </a>
+  <a href="https://www.paypal.me/shivamgoyal1899" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_l.png" alt="Pay with PayPal!" height="30">
+  </a>
+  <a href="https://opencollective.com/shivamgoyal" target="_blank">
+    <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" height="30">
+  </a>
+</p>
